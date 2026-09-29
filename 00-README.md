@@ -8,11 +8,11 @@ Stack completo de skills de M.L.O Growth, ordenado por categorías. Reúne las d
 
 | # | Carpeta | Skills | Contenido |
 |---|---|---|---|
-| 01 | `01-creative-strategy` | 19 | 🟢 Estrategia creativa: ángulos, hooks, guiones, frameworks, briefs, research |
+| 01 | `01-creative-strategy` | 22 | 🟢 Estrategia creativa: ángulos, hooks, guiones, frameworks, briefs, research |
 | 02 | `02-creative-production` | 11 | 🟢 Producción: vídeo/UGC, estáticos, edición, VSL, copy de ads |
-| 03 | `03-media-buying-cro` | 3 | 🟢 Media buying (paid) + CRO |
+| 03 | `03-media-buying-cro` | 6 | 🟢 Media buying (paid) + CRO + funnels y páginas |
 | 04 | `04-web-design` | 2 | 🟢 Figma / Framer (web) |
-| 05 | `05-reporting` | 9 | 🟠 Reportes (creative, email, scale, KPIs, weekly) — algunos con IDs de cuenta |
+| 05 | `05-reporting` | 10 | 🟠 Reportes (creative, email, scale, KPIs, weekly) — algunos con IDs de cuenta |
 | 06 | `06-finance-billing` | 8 | 🔴 Finanzas y facturación de la agencia — SENSIBLE |
 | 07 | `07-sales` | 4 | 🔴 Ventas: setter, ofertas/precios, propuestas, auditoría de prospectos — SENSIBLE |
 | 08 | `08-client-ops` | 14 | 🟠 Ops: onboarding, chief-of-staff, controller, tablero (IDs), naming, creators, talent |
@@ -20,7 +20,7 @@ Stack completo de skills de M.L.O Growth, ordenado por categorías. Reúne las d
 | 10 | `10-email-content` | 7 | 🟠 Email + LinkedIn: copywriting, newsletters, guardrails de voz |
 | 11 | `11-brand-voice` | 4 | 🔴 Voces/guardrails por marca (cliente) — SENSIBLE |
 
-**Total: 98 skills** (excluidas las herramientas genéricas de Anthropic: docx, pdf, pptx, xlsx, etc.).
+**Total: 105 skills** (excluidas las herramientas genéricas de Anthropic: docx, pdf, pptx, xlsx, etc.).
 
 ## Árbol
 ```
@@ -35,10 +35,13 @@ Stack completo de skills de M.L.O Growth, ordenado por categorías. Reúne las d
   mlo-ad-brief-builder/
   mlo-advertorial-brief-builder/
   mlo-advertorial-strategist/
+  mlo-awareness-mapper/
+  mlo-cold-friendly-offer/
   mlo-creative-strategy/
   mlo-estratega-creativo/
   mlo-psychological-coverage/
   mlo-sistema-creativo-2026/
+  mlo-unique-mechanism-builder/
   mlo-winner-strategist/
   psychological-coverage/
   research-engine/
@@ -59,7 +62,10 @@ Stack completo de skills de M.L.O Growth, ordenado por categorías. Reúne las d
 03-media-buying-cro/
   cro-expert/
   mlo-cro-2026/
+  mlo-cro-testing-program/
+  mlo-funnel-architect/
   mlo-media-buying-2026/
+  mlo-page-cooker/
 04-web-design/
   framer/
   framer-code-components/
@@ -71,6 +77,7 @@ Stack completo de skills de M.L.O Growth, ordenado por categorías. Reúne las d
   mlo-creator-spend-report/
   mlo-informe-direccion/
   mlo-klaviyo-email-report/
+  mlo-rpu-diagnostico/
   mlo-scale-report/
   tracker-marketing-mlo-weekly/
 06-finance-billing/
@@ -135,4 +142,4 @@ Stack completo de skills de M.L.O Growth, ordenado por categorías. Reúne las d
   voz-moncho-moreno/
 ```
 
-_Fuente: ~/.claude/skills + librería de skills de Claude · export ordenado 2026-08-27._
+_Fuente: ~/.claude/skills + librería de skills de Claude · export ordenado 2026-08-27 · 2026-09-29: añadidas 7 skills + 05-reporting desde growthmlo-code/creative-scale-repository-skills._
